@@ -2,7 +2,7 @@
 
 ## Introduction
 
-ADD YOUR INTRODUCTION HERE!!
+`is-folder` is a simple library for NodeJS.
 
 ## Quick Start
 
@@ -13,10 +13,11 @@ npm install is-folder
 
 ```typescript
 // add this import to your Typescript code
-import { Value } from "is-folder"
-```
+import { IsFolder } from "is-folder"
 
-__VS Code users:__ once you've added a single import anywhere in your project, you'll then be able to auto-import anything else that this library exports.
+// will be either `true` or `false`
+const dataExists = isFolder("my/path/to/the/folder");
+```
 
 ## Documentation
 

@@ -13,4 +13,4 @@ Please make sure your pull request mentions which issue(s) it fixes.
 
 Please check our [issues][issues] list first. Is there an existing issue that covers your new feature? If not, please open a new issue, so that we've got somewhere to discuss the feature.
 
-[issues](https://github.com/stuartherbert/ts-is-folder/issues)
+[issues](https://github.com/ganbarodigital/ts-is-folder/issues)
