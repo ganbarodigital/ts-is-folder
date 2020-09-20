@@ -37,4 +37,4 @@ If we accept your pull request, we'll add your details to our [authors](AUTHORS.
 
 [code-review-guidelines]: https://github.com/SafelyTyped/ts-coding-standards/blob/master/CODE-REVIEW-GUIDELINES.md
 [coding-standards]: https://github.com/SafelyTyped/ts-coding-standards
-[issues](https://github.com/stuartherbert/ts-is-folder/issues)
+[issues](https://github.com/ganbarodigital/ts-is-folder/issues)

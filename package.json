@@ -1,10 +1,10 @@
 {
   "name": "is-folder",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Check if a path points to a folder or not",
-  "repository": "github:stuartherbert/ts-is-folder",
-  "main": "lib/v1/index.js",
-  "types": "lib/v1/index.d.ts",
+  "repository": "github:ganbarodigital/ts-is-folder",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "scripts": {
     "build": "npm run clean && npm run lint && tsc",
     "lint": "tslint -p ./tsconfig.json",
@@ -26,7 +26,6 @@
   ],
   "license": "BSD-3-Clause",
   "dependencies": {
-    "@safelytyped/core-types": "^0.1.0"
   },
   "devDependencies": {
     "@types/chai": "^4.2.8",
